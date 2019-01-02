@@ -1,0 +1,11 @@
+C:\MyDemo\CSharp\netPop\pop\bin\Release\pop.exe.config
+C:\MyDemo\CSharp\netPop\pop\bin\Release\pop.exe
+C:\MyDemo\CSharp\netPop\pop\bin\Release\pop.pdb
+C:\MyDemo\CSharp\netPop\pop\bin\Release\PacketDotNet.dll
+C:\MyDemo\CSharp\netPop\pop\bin\Release\SharpPcap.dll
+C:\MyDemo\CSharp\netPop\pop\obj\Release\pop.csprojResolveAssemblyReference.cache
+C:\MyDemo\CSharp\netPop\pop\obj\Release\pop.Form1.resources
+C:\MyDemo\CSharp\netPop\pop\obj\Release\pop.Properties.Resources.resources
+C:\MyDemo\CSharp\netPop\pop\obj\Release\pop.csproj.GenerateResource.Cache
+C:\MyDemo\CSharp\netPop\pop\obj\Release\pop.exe
+C:\MyDemo\CSharp\netPop\pop\obj\Release\pop.pdb
